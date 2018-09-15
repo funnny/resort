@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	헬로월드 한글 
+	Hello world!  전우종바보
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
