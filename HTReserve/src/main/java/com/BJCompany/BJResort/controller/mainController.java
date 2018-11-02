@@ -11,4 +11,9 @@ public class mainController {
 	public String index() {
 		return "index";
 	}
+	
+	@RequestMapping("/jeon.do")
+	public String jeon(){
+		return "jeon";
+	}
 }
